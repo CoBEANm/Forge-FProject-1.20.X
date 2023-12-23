@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "":
+    {
+      "model": "fproject:block/sapphire_block"
+    }
+  }
+}

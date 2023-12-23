@@ -1,6 +1,7 @@
 package net.bork.fproject;
 
 import com.mojang.logging.LogUtils;
+import net.bork.fproject.block.ModBlocks;
 import net.bork.fproject.item.ModCreativeModTabs;
 import net.bork.fproject.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -25,6 +26,7 @@ public class FProject
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModCreativeModTabs.register(modEventBus);
+        ModBlocks.register(modEventBus);
         ModItems.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
