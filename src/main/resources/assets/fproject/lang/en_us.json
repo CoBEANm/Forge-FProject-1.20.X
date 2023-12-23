@@ -1,10 +1,10 @@
 {
   "item.fproject.sapphire": "Sapphire",
   "item.fproject.raw_sapphire": "Raw Sapphire",
+  "item.fproject.metal_detector": "Metal Detector",
 
   "block.fproject.sapphire_block": "Sapphire Block",
   "block.fproject.raw_sapphire_block": "Raw Sapphire Block",
-
   "block.fproject.sapphire_ore": "Sapphire Ore",
   "block.fproject.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
   "block.fproject.nether_sapphire_ore": "Nether Sapphire Ore",
