@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients":[
     {
-      "item": "fproject:sapphire_block"
+      "item": "fproject:raw_sapphire_block"
     }
   ],
   "result": {
-    "item": "fproject:sapphire",
+    "item": "fproject:raw_sapphire",
     "count": 9
   }
 }
