@@ -29,9 +29,9 @@ public class MetalDetectorItem extends Item {
                     foundBlock = true;
                     break;
                 }
-                if (!foundBlock){
-                    player.sendSystemMessage(Component.literal("No valuable block found!"));
-                }
+            }
+            if (!foundBlock){
+                player.sendSystemMessage(Component.literal("No valuable block found!"));
             }
         }
         pContext.getItemInHand().hurtAndBreak(1, pContext.getPlayer(), player -> player.broadcastBreakEvent(player.getUsedItemHand()));
