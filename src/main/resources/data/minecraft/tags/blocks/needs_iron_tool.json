@@ -1,0 +1,10 @@
+{
+  "values": [
+    "fproject:sapphire_block",
+    "fproject:raw_sapphire_block",
+    "fproject:sapphire_ore",
+    "fproject:deepslate_sapphire_ore",
+    "fproject:nether_sapphire_ore",
+    "fproject:end_stone_sapphire_ore"
+  ]
+}
