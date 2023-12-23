@@ -5,6 +5,9 @@
   "item.fproject.strawberry": "Strawberry",
   "item.fproject.pine_cone": "Pine Cone",
 
+  "tooltip.fproject.metal_detector": "Right-click a block to detect Iron under it.",
+  "tooltip.fproject.sound_block": "Right-click when placed to play a sound.",
+
   "block.fproject.sapphire_block": "Sapphire Block",
   "block.fproject.raw_sapphire_block": "Raw Sapphire Block",
   "block.fproject.sapphire_ore": "Sapphire Ore",
