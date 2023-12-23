@@ -1,6 +1,7 @@
 package net.bork.fproject.item;
 
 import net.bork.fproject.FProject;
+import net.bork.fproject.item.custom.MetalDetectorItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;

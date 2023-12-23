@@ -1,4 +1,4 @@
-package net.bork.fproject.item;
+package net.bork.fproject.item.custom;
 
 import net.minecraft.client.resources.language.I18n;
 import net.minecraft.core.BlockPos;
